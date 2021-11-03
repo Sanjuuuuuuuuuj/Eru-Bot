@@ -4,7 +4,7 @@ let handler = async m => m.reply(`
 *Bot :* Eru chitanda
 
 _Note : This is customised bot_
-_Edited by : Redbee🐝❤_
+_Edited by : BHARAT🐝❤_
 
 
 💫 *Command :* bannedlist
